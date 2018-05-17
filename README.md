@@ -24,3 +24,6 @@ They compile pug to html, stylus to css(with prefix) and es6 to es5.
 
 ### Babel
 > babel --presets es2015 ./js/main.js -d assets -w
+
+#### Note
+You have to install `babel-preset-es2015` locally. I don't know why we have to do this. Otherwise it gives *Error: Couldn't find preset “es2015” relative to directory...* error.
