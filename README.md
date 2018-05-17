@@ -9,7 +9,9 @@
 npm i pug-cli stylus autoprefixer-stylus babel-cli babel-preset-es2015 -g
 ```
 
-Open 3 terminals and run the commands below. They compile pug to html, stylus to css(with prefix) and es6 to es5.
+Open 3 terminals and run the commands below.
+
+They compile pug to html, stylus to css(with prefix) and es6 to es5.
 
 ### Pug
 > pug pug/index.pug --out ./ -w 
