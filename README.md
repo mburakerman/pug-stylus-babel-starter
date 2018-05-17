@@ -8,6 +8,7 @@
 ```js
 npm i pug-cli stylus autoprefixer-stylus babel-cli babel-preset-es2015 -g
 ```
+<br>
 
 Open 3 terminals and run the commands below.
 
