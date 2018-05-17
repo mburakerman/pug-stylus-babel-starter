@@ -4,8 +4,6 @@
   <img src="https://cdn.svgporn.com/logos/babel.svg" height="100"  align="center">
 </p>
 
-<br>
-
 ## To make this work, do not forget to install pug-cli, stylus, autoprefixer-stylus, babel-cli, babel-preset-es2015 globally!
 ```js
 npm i pug-cli stylus autoprefixer-stylus babel-cli babel-preset-es2015 -g
