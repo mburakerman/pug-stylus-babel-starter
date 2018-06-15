@@ -28,3 +28,7 @@ They compile pug to html, stylus to css(with prefix) and es6 to es5.
 
 ### ⚠️Note
 You have to install `babel-preset-es2015` locally. I don't know why we have to do this. Otherwise it gives *Error: Couldn't find preset “es2015” relative to directory...* error.
+
+
+### ⚠️Note
+Do not forget to create empty css folder in assets folder. Otherwise stylus gives error.
