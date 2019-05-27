@@ -15,7 +15,7 @@ Open 3 terminals and run the commands below.
 They compile pug to html, stylus to css(with prefix) and es6 to es5.
 
 ### Pug
-> pug pug/ --out ./ -w 
+> pug pug/ --out ./ -w -P
 
 
 ### Stylus
